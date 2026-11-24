@@ -8,10 +8,10 @@ const SITE = {
 
 
   pengurus: [
-    { nama: "Alfiyan Harsutama",              jabatan: "Ketua Kelas",        foto: "foto/Pengurus/pengurus-denita.jpg" },
+    { nama: "Alfiyan Harsutama",              jabatan: "Ketua Kelas",        foto: "foto/Pengurus/tama.jpg" },
     { nama: "Izzi Sinardho",      jabatan: "Wakil Ketua Kelas",  foto: "foto/Pengurus/Wakil.png" },
-    { nama: "Queen",jabatan: "Sekretaris",         foto: "foto/Pengurus/pengurus-marcella.jpg" },
-    { nama: "Zahwa",     jabatan: "Bendahara",          foto: "foto/Pengurus/pengurus-sabrina.jpg" },
+    { nama: "Queen",jabatan: "Sekretaris",         foto: "foto/Pengurus/queen.jpg" },
+    { nama: "Zahwa",     jabatan: "Bendahara",          foto: "foto/Pengurus/zahwa.jpg" },
   ],
 
   anggota: [
