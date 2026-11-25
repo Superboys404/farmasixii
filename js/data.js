@@ -15,8 +15,8 @@ const SITE = {
   ],
 
   anggota: [
-    { nama: "Anggota 1",  foto: "foto/anggota-01.jpg" },
-    { nama: "Anggota 2",  foto: "foto/anggota-02.jpg" },
+    { nama: "Bella",  foto: "foto/Anggota/bella.JPG" },
+    { nama: "Zakia",  foto: "foto/Anggota/zakia.jpg" },
     { nama: "Anggota 3",  foto: "foto/anggota-03.jpg" },
     { nama: "Anggota 4",  foto: "foto/anggota-04.jpg" },
     { nama: "Anggota 5",  foto: "foto/anggota-05.jpg" },
