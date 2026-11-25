@@ -44,7 +44,7 @@ const SITE = {
   ],
 
   motto: [
-    "“MOTO KELASNYA APAAN BANG”",
+    "“Turning chaos into memories, and dreams into reality”",
     "“INI MOTO KELAS NYA APAAN BANG2”",
   ],
 
