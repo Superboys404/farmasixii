@@ -16,9 +16,9 @@ const SITE = {
   ],
 
   anggota: [
-    { nama: "Bella",  foto: "foto/Anggota/Bella.JPG" },
+    { nama: "Bella",  foto: "foto/Anggota/bella.JPG" },
     { nama: "Zakia",  foto: "foto/Anggota/zakia.jpg" },
-    { nama: "Agis",  foto: "foto/Anggota/agis.jpg" },
+    { nama: "Agis",  foto: "foto/Anggota/Agis.jpg" },
     { nama: "Amel",  foto: "foto/Anggota/Pamela.png" },
     { nama: "Aisyah",  foto: "foto/Anggota/aisyah.jpg" },
     { nama: "Cinta",  foto: "foto/Anggota/cinta.jpg" },
