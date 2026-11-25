@@ -8,19 +8,20 @@ const SITE = {
 
 
   pengurus: [
-    { nama: "Alfiyan Harsutama",              jabatan: "Ketua Kelas",        foto: "foto/Pengurus/tama.jpg" },
-    { nama: "Izzi Sinardho",      jabatan: "Wakil Ketua Kelas",  foto: "foto/Pengurus/Wakil.png" },
-    { nama: "Queen",jabatan: "Sekretaris",         foto: "foto/Pengurus/queen.jpg" },
-    { nama: "Zahwa",     jabatan: "Bendahara",          foto: "foto/Pengurus/zahwa.jpg" },
+    { nama: "Alfiyan Harsutama", jabatan: "Ketua Kelas", foto: "foto/Pengurus/tama.jpg" },
+    { nama: "Izzi Sinardho", jabatan: "Wakil Ketua Kelas", foto: "foto/Pengurus/Wakil.png" },
+    { nama: "Queen", jabatan: "Sekretaris", foto: "foto/Pengurus/pengurus-marcella.jpg" },
+    { nama: "Zahwa", jabatan: "Bendahara 1", foto: "foto/Pengurus/Zahwa.jpeg" },
+    { nama: "Adel", jabatan: "Bendahara 2", foto: "foto/Pengurus/adel.jpg"},
   ],
 
   anggota: [
-    { nama: "Bella",  foto: "foto/Anggota/bella.JPG" },
+    { nama: "Bella",  foto: "foto/Anggota/Bella.JPG" },
     { nama: "Zakia",  foto: "foto/Anggota/zakia.jpg" },
-    { nama: "Anggota 3",  foto: "foto/anggota-03.jpg" },
-    { nama: "Anggota 4",  foto: "foto/anggota-04.jpg" },
-    { nama: "Anggota 5",  foto: "foto/anggota-05.jpg" },
-    { nama: "Anggota 6",  foto: "foto/anggota-06.jpg" },
+    { nama: "Agis",  foto: "foto/Anggota/agis.jpg" },
+    { nama: "Amel",  foto: "foto/Anggota/Pamela.png" },
+    { nama: "Aisyah",  foto: "foto/Anggota/aisyah.jpg" },
+    { nama: "Cinta",  foto: "foto/Anggota/cinta.jpg" },
     { nama: "Anggota 7",  foto: "foto/anggota-07.jpg" },
     { nama: "Anggota 8",  foto: "foto/anggota-08.jpg" },
     { nama: "Anggota 9",  foto: "foto/anggota-09.jpg" },
